@@ -9,13 +9,13 @@ const contenedorEstado = document.getElementById("estado-cuenta");
 // === 2. FASE DE MODIFICACIÓN
 
 //Modificación 1: Cambiar textos usando textContent
-nombre.textContent = "Juan Manuel Beltrán";
+nombre.textContent = "Emanuel Ramírez lópez";
 biografia.textContent = "Tecnico profesional en Programación web, con expreciencia en desarrollo de aplicativos Web.";
 
 //Modificación 2: Cambiar la imagen usando setAttribute
 //Cambiamos el archivo de la imagen y el texto alternativo
-imagen.setAttribute('src', '/img/perfil2.jpg');
-imagen.setAttribute('alt', 'Foto de Juan Manuel Beltrán');
+imagen.setAttribute('src', '/img/perfi.jpg');
+imagen.setAttribute('alt', 'Foto de Emanuel Ramírez lópez');
 
 //Modificación 3: Inyectar HTML nuevo usando innerHTML
 //Creamnos una etiqueta fuerte y un salto de linea desde cero
