@@ -1,2 +1,2 @@
-# practica-dom
-Practica del uso de los elementos y clases del DOM
+# repaso-guiado-travelnow
+Landing page de prueba para repasarfundamentos web
